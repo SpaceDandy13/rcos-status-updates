@@ -11,3 +11,7 @@ Second week:
 Third week:
 1.Still learning javascript.
 2.I think I find the reason why VR view can not work on the website. By looking at the code, I find that pictures are stored in aws. So I think maybe there is something wrong with the account.
+
+Fourth week:
+1.Leaning Aframe.
+2.The database(photos) is not the reason why VR view does not work. We changed the url and use a school cardboard instead of aws. It become harder to debug because previous members wrote many codes.
