@@ -1,0 +1,6 @@
+5th week:
+1.Leaning Aframe.
+2.I tried to change some codes. 
+  Now the showpath.html can take the origin and destination in and find out how many data(pictures) are between these two places.
+  It can also move forward. But the biggest problem is still unfixed. Although we can see the name of the building, 
+  there is not 360 picture behind it. ShowPath.js reads the data successfully. Maybe there is still something about url.
