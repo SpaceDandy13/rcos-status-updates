@@ -1,1 +1,8 @@
-1.
+1.A-frame can change image now. I fixed this bug by deleting "Access-Control-Allow-Origin" and change the index.
+2.aws does not work, so we want to save our images in rpi cardboard. I changed the url in the program from aws to cardboard. 
+  But unfortunately we encountered some problems and failed to unload the data before the due time...
+  As a result, the website may not work
+3.I new a html file called showInside.html and a js file called showInside.js to work with the vr view inside the building.
+  I connected showInside.html with a onclick activity of a button in index.html. It can how determine which pictures are inside 
+  the building. I am still learning how to connect these picture in a-frame.
+4.
